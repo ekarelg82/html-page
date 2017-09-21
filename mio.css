@@ -1,12 +1,25 @@
 
         blockquote {
-            background-color: #199;
-            margin: 27px 0 32px 0;
-            padding: 18px 18px 18px 18px;
-        }
-        .foo {
-          color: green;
-        }
-        img {
-          width: 500px;
-        }
+    background-color: #199;
+    margin: 27px 0 32px 0;
+    padding: 18px 18px 18px 18px;
+  }
+
+  .foo {
+    text-align: center;
+    text-shadow: 1px 1px black;
+    color: #666;
+  }
+
+  img {
+    width: 45%;
+    height: 450px;
+    box-shadow: 10px 10px 5px grey;
+    border-radius: 8px;
+    display: block;
+    margin: auto;
+  }
+
+  h2 {
+    text-align: center;
+  }
